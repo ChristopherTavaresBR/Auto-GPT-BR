@@ -28,7 +28,7 @@ To maintain a vibrant and inclusive community, we expect all members to abide by
 3. Collaboration: Embrace collaboration and support fellow community members in their journey.
 4. Follow licensing: Adhere to the licensing requirements of the repository and respect intellectual property rights.
 
-## See more in [Code of Conduct][https://github.com/ChristopherTavaresBR/Auto-GPT-BR/CODE OF CONDUCT.md] 
+## See more in [Code of Conduct]["https://github.com/ChristopherTavaresBR/Auto-GPT-BR/CODEOFCONDUCT.md"] 
 
 ## 📣 Stay Updated:
 As we continuously refine the GPT architecture and explore new avenues in language generation, expect frequent updates, breakthrough discoveries, and game-changing advancements. Follow our official channels, join our mailing list, and subscribe to our social media handles to stay updated with the latest news and developments.
