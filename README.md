@@ -36,4 +36,4 @@ As we continuously refine the GPT architecture and explore new avenues in langua
 ### 📝 Join GPT Bliss today and unleash your creativity in the world of natural language processing. Together, let's shape the future of language AI and embark on an era of linguistic wonderment!
 
 ## ⚖️ License:
-Please refer to the licensing information included in the repository for details on the permitted usage and distribution of the resources provided.
+Please refer to the licensing information included in the repository for details on the permitted usage and distribution of the resources provides.
